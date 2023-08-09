@@ -164,7 +164,7 @@
   },
   "semanticTokenColors": {
     "namespace": "#BAB0FF",
-    "property": "#F0BB97",
+    "property": "#BAB0FF",
     "interface": "#BAB0FF",
     "type": "#BAB0FF",
     "class": "#BAB0FF"
@@ -256,7 +256,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#83BDEE"
+        "foreground": "#F0BB97"
       }
     },
     {
@@ -316,13 +316,13 @@
         "attribute.name"
       ],
       "settings": {
-        "foreground": "#F0BB97"
+        "foreground": "#BAB0FF"
       }
     },
     {
       "scope": ["variable", "identifier"],
       "settings": {
-        "foreground": "#FFBAB8"
+        "foreground": "#83BDEE"
       }
     },
     {
